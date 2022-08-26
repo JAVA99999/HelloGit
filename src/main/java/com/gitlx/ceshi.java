@@ -12,5 +12,6 @@ public class ceshi {
         System.out.println("主干在第12行添加");
         System.out.println("分支在第12行添加");
         System.out.println("在分支dev中开发了");
+        System.out.println("在主干开发了");
     }
 }
